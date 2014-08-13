@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ADI version="1.3.1">
+    <test testAttribute="Kiren">Padayachee</test>
+    <Asset>
+        <Metadata>
+            <AMS Asset_Class="catalog" Asset_ID="CCFG0000000000000116" Asset_Name="Explora IS20 " Creation_Date="2014-05-26 13:55:00" Description="Testing Explora catalog created at 2014-05-26 15:55:00" Product="none" Provider="MyProvider" Provider_ID="MyProviderID" Verb="none" Version_Major="1" Version_Minor="0"/>
+            <App_Data App="USER" Name="StartDate" Value="2014-05-26 13:55:00"/>
+            <App_Data App="USER" Name="EndDate" Value="2015-09-03 15:55:00"/>
+            <Config ID="CRP">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="R"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="41550"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="BOX">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="R"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="ZAF">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="N$"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="BWA">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="BWP"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="LSO">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="R"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="SWZ">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="L"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="NAM">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="NAD"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="ZMB">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="ZK"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="AGO">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="KZ"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="MWI">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="MK"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="MOZ">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="MT"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="ZWE">
+                <App_Data App="USER" Name="CostOfSms" Value="Standard SMS Rates Apply"/>
+                <App_Data App="USER" Name="Currency" Value="USD"/>
+                <App_Data App="USER" Name="PhoneNumber" Value="37569"/>
+                <App_Data App="USER" Name="TaxText" Value="(incl VAT)"/>
+            </Config>
+            <Config ID="ENG">
+                <App_Data App="USER" Name="Asset_Name" Value="Explora IS20"/>
+                <App_Data App="USER" Name="Description" Value="NextGen Satellite Catalog"/>
+            </Config>
+        </Metadata>
+        <Asset>
+            <Metadata>
+                <AMS Asset_Class="package" Asset_ID="PKGP3236190000000000" Asset_Name="Series Chuck Ep 5-0" Creation_Date="2014-05-26 13:55:00" Description="2014-05-26 15:55:00at S5E5 of 13 - Chuck Versus The Hack Off Chuck and Sarah infiltrate an unusual cult to find the designer of a computer virus. Airs Series Wed 1930 - Also on dstvondemand.com" Product="SVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                <App_Data App="USER" Name="Title" Value="Series Chuck Ep 5Series Chuck Ep 5-0"/>
+                <App_Data App="USER" Name="Summary_Short" Value="Summary is excellent for viewers"/>
+                <App_Data App="USER" Name="StartDate" Value="2014-05-26 13:55:00"/>
+                <App_Data App="USER" Name="EndDate" Value="2015-09-03 15:55:00"/>
+                <App_Data App="USER" Name="ReleaseDate" Value="2012"/>
+                <App_Data App="USER" Name="Year" Value="2012"/>
+                <App_Data App="USER" Name="Advisories" Value="V"/>
+                <App_Data App="USER" Name="Advisories" Value="L"/>
+                <App_Data App="USER" Name="Director" Value="Zachary,Levi"/>
+                <App_Data App="USER" Name="Actors" Value="Zachary,Levi"/>
+                <App_Data App="USER" Name="Genre" Value="Series/Comedy"/>
+                <App_Data App="USER" Name="Display_Run_Time" Value="41"/>
+                <App_Data App="USER" Name="Rating" Value="7"/>
+                <App_Data App="USER" Name="Episode_Season" Value="2"/>
+                <App_Data App="USER" Name="Episode_Number" Value="25"/>
+                <App_Data App="USER" Name="Episode_Title" Value="Series Chuck Ep 5"/>
+                <App_Data App="USER" Name="See_Also" Value="http://ondemand.dstv.com"/>
+                <App_Data App="USER" Name="Premier_Event" Value="N"/>
+                <App_Data App="USER" Name="Star_Rating" Value="1"/>
+                <App_Data App="USER" Name="Nr_Episodes" Value="30"/>
+                <App_Data App="USER" Name="Studio_Name" Value="Marvel"/>
+                <App_Data App="USER" Name="Special_Highlight" Value="Y"/>
+                <App_Data App="USER" Name="Part_Number" Value="5"/>
+                <App_Data App="USER" Name="Last_Episode" Value="N"/>
+                <App_Data App="USER" Name="Keywords" Value="Keywords3"/>
+                <App_Data App="USER" Name="Channel" Value="MNet,110,2013-01-11,Friday"/>
+                <App_Data App="DS" Name="Availability" Value="ZAF, CRP, BOX"/>
+            </Metadata>
+            <Asset>
+                <Metadata>
+                    <AMS Asset_Class="poster" Asset_ID="PKPO3236190000000000" Asset_Name="SRS_Pkg000Jpg0" Creation_Date="2014-05-26 13:55:00" Description="JPG description Pkg000Jpg0" Product="SVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                    <App_Data App="USER" Name="URL" Value="http://192.168.195.193:8080/Images/1.png"/>
+                    <App_Data App="DS" Name="isLarge" Value="false"/>
+                </Metadata>
+            </Asset>
+            <Asset>
+                <Metadata>
+                    <AMS Asset_Class="scrambled_video" Asset_ID="PKMO3236190000000000" Asset_Name="SRS_Pkg000Mpg0" Creation_Date="2014-05-26 13:55:00" Description="S5E5 of 13 - Chuck Versus The Hack Off Chuck and Sarah infiltrate an unusual cult to find the designer of a computer virus. Airs Series Wed 1930 - Also on dstvondemand.com" Product="SVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                    <App_Data App="USER" Name="URL" Value="http://192.168.195.193:8080/Videos/1.mpg"/>
+                    <App_Data App="DS" Name="isLarge" Value="true"/>
+                    <App_Data App="USER" Name="Audio_Type" Value="Stereo"/>
+                    <App_Data App="USER" Name="HDContent" Value="Y"/>
+                    <App_Data App="USER" Name="Dubbed_Languages" Value="malayalam"/>
+                    <App_Data App="USER" Name="Screen_Format" Value="16:9"/>
+                    <App_Data App="USER" Name="Subtitles" Value="N"/>
+                    <App_Data App="USER" Name="CAProductIDList" Value="216"/>
+                    <App_Data App="USER" Name="Display_Run_Time" Value="41"/>
+                    <CAProduct ID="216" Type="SVOD">
+                        <App_Data App="CA" Name="Type" Value="SVOD"/>
+                        <Config ID="ZAF">
+                            <App_Data App="CA" Name="Availability" Value="Y"/>
+                        </Config>
+                        <Config ID="CRP">
+                            <App_Data App="CA" Name="Availability" Value="Y"/>
+                        </Config>
+                        <Config ID="BOX">
+                            <App_Data App="CA" Name="Availability" Value="Y"/>
+                        </Config>
+                    </CAProduct>
+                </Metadata>
+            </Asset>
+        </Asset>
+        <Asset>
+            <Metadata>
+                <AMS Asset_Class="package" Asset_ID="PKGP6136184000000000" Asset_Name="Promotional Asset Comingsoon" Creation_Date="2014-05-26 13:55:00" Description="This is the promotional content. Please watch. at 2014-05-26 15:55:00" Product="TVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                <App_Data App="USER" Name="Title" Value="Promotional Attraction"/>
+                <App_Data App="USER" Name="StartDate" Value="2014-05-26 13:55:00"/>
+                <App_Data App="USER" Name="EndDate" Value="2015-09-03 15:55:00"/>
+                <App_Data App="USER" Name="ReleaseDate" Value=""/>
+                <App_Data App="USER" Name="Advisories" Value="V, L"/>
+                <App_Data App="USER" Name="Actors" Value=""/>
+                <App_Data App="USER" Name="Director" Value=""/>
+                <App_Data App="USER" Name="Premier_Event" Value="N"/>
+                <App_Data App="USER" Name="Special_Highlight" Value="Y"/>
+                <App_Data App="USER" Name="Genre" Value="Movies/Promotional"/>
+                <App_Data App="USER" Name="Display_Run_Time" Value=""/>
+                <App_Data App="USER" Name="Rating" Value="1"/>
+                <App_Data App="DS" Name="Availability" Value="ZAF, CRP, BOX"/>
+                <App_Data App="USER" Name="Part_Number" Value=""/>
+                <App_Data App="USER" Name="Year" Value="2013"/>
+                <App_Data App="USER" Name="See_Also" Value="http://ondemand.dstv.com"/>
+                <App_Data App="USER" Name="Star_Rating" Value="4"/>
+                <App_Data App="USER" Name="Studio_Name" Value="M-Net"/>
+            </Metadata>
+            <Asset>
+                <Metadata>
+                    <AMS Asset_Class="poster" Asset_ID="PKPO6136184000000000" Asset_Name="PP_Pkg000Jpg0" Creation_Date="2014-05-26 13:55:00" Description="JPG description Pkg000Jpg0" Product="TVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                    <App_Data App="NAS" Name="URL" Value="\\192.168.155.18\Users\Bala\tmpnas\AUTO\Images\PO_Default_TVOD_ComingSoon.png"/>
+                    <App_Data App="DS" Name="isLarge" Value="false"/>
+                </Metadata>
+            </Asset>
+            <Asset>
+                <Metadata>
+                    <AMS Asset_Class="trailer_video" Asset_ID="PKMO6136184000000000" Asset_Name="PP_Pkg000Mpg0" Creation_Date="2014-05-26 13:55:00" Description="This is the promotional content. Please watch." Product="TVOD" Provider="Multichoice" Provider_ID="www.dstv.com" Verb="none" Version_Major="1" Version_Minor="1"/>
+                    <App_Data App="NAS" Name="URL" Value="\\192.168.155.18\Users\Bala\tmpnas\AUTO\SPORT\extracted\Cricket IPL - BRC v PW_TVD216_Movie_NG.mpg"/>
+                    <App_Data App="DS" Name="isLarge" Value="true"/>
+                    <App_Data App="USER" Name="Audio_Type" Value="Stereo"/>
+                    <App_Data App="USER" Name="HDContent" Value="Y"/>
+                    <App_Data App="USER" Name="Dubbed_Languages" Value="NA"/>
+                    <App_Data App="USER" Name="Screen_Format" Value="16:9"/>
+                    <App_Data App="USER" Name="Subtitles" Value="N"/>
+                    <App_Data App="USER" Name="CAProductIDList" Value="216"/>
+                    <App_Data App="USER" Name="Display_Run_Time" Value="41"/>
+                    <CAProduct ID="216" Type="SVOD">
+                        <App_Data App="CA" Name="Type" Value="SVOD"/>
+                        <Config ID="ZAF">
+                            <App_Data App="CA" Name="Availability" Value="ZAF"/>
+                        </Config>
+                        <Config ID="CRP">
+                            <App_Data App="CA" Name="Availability" Value="CRP"/>
+                        </Config>
+                        <Config ID="BOX">
+                            <App_Data App="CA" Name="Availability" Value="BOX"/>
+                        </Config>
+                    </CAProduct>
+                </Metadata>
+            </Asset>
+        </Asset>
+    </Asset>
+</ADI>
+
